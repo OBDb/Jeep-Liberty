@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Liberty"
+
 generations:
   - name: "First Generation (KJ)"
     start_year: 2002
